@@ -1,7 +1,8 @@
 Package.describe({
-    name: 'wadoproxy',
+    name: 'lancelotsmith:wadoproxy',
     summary: 'WADO-URI Proxy',
-    version: '0.0.1'
+    version: '0.0.1',
+    git:"https://github.com/lancelotsmith/wadoproxy.git"
 });
 
 Package.onUse(function(api) {
